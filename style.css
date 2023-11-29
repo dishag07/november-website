@@ -7,3 +7,9 @@
     height:4rem;
     width:4rem;
 }
+.img-thumbnail{
+    background-image: url(https://picsum.photos/id/237/200/300);
+height: 10rem;
+width: 10rem;
+margin-bottom: 15px;
+}
