@@ -1,15 +1,30 @@
 .bg-hero-image {
-    background-image: url(https://picsum.photos/id/1/200/300); 
-    background-position: center;
+    background-image: url('img/herobackground.jpg'); 
+    background-position: center center;
 }
 
 .nav {
     height:4rem;
     width:4rem;
+    
 }
 .img-thumbnail{
-    background-image: url(https://picsum.photos/id/237/200/300);
 height: 10rem;
 width: 10rem;
 margin-bottom: 15px;
+
 }
+
+.d-md-none {
+font-family: 'DM Serif Display', serif;
+background-color: black;
+}
+
+.mb-3 {
+    font-size: 50px;
+}
+
+.container {
+    background-color: black;
+}
+
